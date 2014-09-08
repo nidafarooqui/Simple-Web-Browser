@@ -1,0 +1,10 @@
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\bin\Release\SimpleWebBrowser1F21SC.exe
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\bin\Release\SimpleWebBrowser1F21SC.pdb
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.Form1.resources
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.Properties.Resources.resources
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.csproj.GenerateResource.Cache
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.exe
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.pdb
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.csprojResolveAssemblyReference.cache
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.AddToFavourites.resources
+C:\Users\Nida\Desktop\SimpleWebBrowser1F21SC\SimpleWebBrowser1F21SC\obj\x86\Release\SimpleWebBrowser1F21SC.HomePageDialog.resources
